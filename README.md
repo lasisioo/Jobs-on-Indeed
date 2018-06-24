@@ -15,7 +15,7 @@
 - Linear Regression
 
 
-<b>Problem Statement:</b> he data for this project is gotten from scrapping data from Indeed.com. We will be looking at factors that influence the salary of Data Scientist. More specifically, can we build a model good enough to predict whether a Data Scientist will earn a high or low salary based on his/her location and job title.
+<b>Problem Statement:</b> The data for this project is gotten from scrapping data from Indeed.com. We will be looking at factors that influence the salary of Data Scientist. More specifically, can we build a model good enough to predict whether a Data Scientist will earn a high or low salary based on his/her location and job title.
 
 
 ## Data Dictionary:
